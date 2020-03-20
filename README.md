@@ -14,7 +14,7 @@ A minimal theme for VS Code based on a beautiful blend of [Min](https://github.c
 
 ## Installation
 
-1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=mustafamohamad.min-theme)
+1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=mustafamohamad.min-tomorrow-theme)
 2. Go to `File > Preferences > Color Theme`
 3. Select `Min Tomorrow Dark`
 
