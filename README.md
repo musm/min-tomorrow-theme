@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/musm/min-theme/master/icon.png" width="140" />
+<img src="https://raw.githubusercontent.com/musm/min-tomorrow-theme/master/icon.png" width="140" />
 
 # Min Tomorrow Theme
 
-A minimal theme for VS Code based on blend of Min(https://github.com/misolori/min-theme and Tomorrow(https://github.com/microsoft/vscode-themes/tree/master/tomorrow).
+A minimal theme for VS Code based on blend of [Min](https://github.com/misolori/min-theme and [Tomorrow](https://github.com/microsoft/vscode-themes/tree/master/tomorrow).
 
-![preview-dark](https://raw.githubusercontent.com/musm/min-theme/master/screenshot-dark.png)
+![preview-dark](https://raw.githubusercontent.com/musm/min-tomorrow-theme/master/screenshot-dark.png)
 
 </div>
 
