@@ -3,7 +3,7 @@
     "displayName": "Min Tomorrow Theme",
     "description": "A minimal theme of Tommorow",
     "publisher": "mustafamohamad",
-    "version": "0.0.5",
+    "version": "0.0.6",
         "repository": {
         "type": "git",
         "url": "https://github.com/musm/min-tomorrow-theme.git"
@@ -14,6 +14,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
