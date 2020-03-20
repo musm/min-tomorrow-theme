@@ -1,0 +1,26 @@
+{
+    "name": "min-tomorrow-dark",
+    "displayName": "Min Tomorrow Dark Theme",
+    "description": "A minimal theme of Tommorow Dark",
+    "publisher": "Mustafa Mohamad",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Min Tomorrow Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Min Tomorrow Dark-color-theme.json"
+            }
+        ]
+    },
+        "galleryBanner": {
+            "color": "#000000",
+            "theme": "dark"
+        }
+}
