@@ -20,7 +20,7 @@ A minimal theme for VS Code based on a beautiful blend of [Min](https://github.c
 
 Alternatively install via CLI:
 ```
-code --install-extension mustafamohamad.min-theme
+code --install-extension mustafamohamad.min-tomorrow-theme
 ```
 
 ## Credits
