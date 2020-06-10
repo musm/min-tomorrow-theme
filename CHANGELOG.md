@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.4.4] - 2020-06-10
+### Changed
+- Added active indent guide
+
 ## [1.4.3] - 2020-06-10
 ### Changed
 - Synced up Min to the latest version (v1.4.3)
