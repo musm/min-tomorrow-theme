@@ -1,10 +1,10 @@
 {
     "name": "min-tomorrow-theme",
     "displayName": "Min Tomorrow Theme",
-    "description": "A minimal theme of Tommorow",
+    "description": "A minimal theme of Tomorrow",
     "publisher": "mustafamohamad",
-    "version": "0.0.7",
-        "repository": {
+    "version": "1.4.3",
+    "repository": {
         "type": "git",
         "url": "https://github.com/musm/min-tomorrow-theme.git"
     },
@@ -20,12 +20,12 @@
             {
                 "label": "Min Tomorrow Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/min-dark-tomorrow.json"
+                "path": "./themes/min-dark-tomorrow-color-theme.json"
             }
         ]
     },
-        "galleryBanner": {
-            "color": "#000000",
-            "theme": "dark"
-        }
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    }
 }
