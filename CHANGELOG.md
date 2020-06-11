@@ -1,10 +1,14 @@
 # Change Log
 
-All notable changes to the "min-tomorrow-dark" extension will be documented in this file.
+All notable changes to the "min-tomorrow-dark" extension are documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Check [Keep a Changelog](http://keepachangelog.com/) for the structure this file.
 
 ## [Unreleased]
+
+## [1.4.5] - 2020-06-10
+### Changed
+- Tweaked indent guides
 
 ## [1.4.4] - 2020-06-10
 ### Changed
