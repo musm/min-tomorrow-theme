@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for the structure this file
 
 ## [Unreleased]
 
+## [1.4.6] - 2020-07-10
+### Changed
+- Darker comments color
+
 ## [1.4.5] - 2020-07-10
 ### Changed
 - Tweaked indent guides
