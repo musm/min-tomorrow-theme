@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for the structure this file
 
 ## [Unreleased]
 
+## [1.4.7] - 2020-06-22
+### Added
+- Added line number color
+
 ## [1.4.7] - 2020-06-18
 ### Added
 - Added ruler color
