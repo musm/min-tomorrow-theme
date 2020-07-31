@@ -163,6 +163,7 @@
         "entity.name.function",
         "meta.function-call",
         "support.function",
+        "entity.other.attribute-name.pseudo-class",
         "keyword.other.special-method",
         "meta.block-level"
       ],
