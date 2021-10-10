@@ -2,7 +2,7 @@
   "name": "Min Tomorrow Dark",
   "type": "dark",
   "colors": {
-    "editorBracketHighlight.foreground1": "#F0C674",
+    "editorBracketHighlight.foreground1": "#b17600",
     "editorBracketHighlight.foreground2": "#B78BC3",
     "editorBracketHighlight.foreground3": "#BEC85D",
     "editorIndentGuide.activeBackground": "#383838",
@@ -43,7 +43,7 @@
     "progressBar.background": "#FAFAFA",
     "scrollbar.shadow": "#1f1f1f",
     "sideBar.background": "#1A1A1A",
-    "sideBarSectionHeader.background": "#202020",
+    "sideBarSectionHeader.background": "#1A1A1A", // or lighter  to differentiate #202020
     "statusBar.background": "#1A1A1A",
     "statusBar.debuggingBackground": "#1A1A1A",
     "statusBar.foreground": "#7E7E7E",
