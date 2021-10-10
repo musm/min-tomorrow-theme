@@ -2,6 +2,9 @@
   "name": "Min Tomorrow Dark",
   "type": "dark",
   "colors": {
+    "editorBracketHighlight.foreground1": "#F0C674",
+    "editorBracketHighlight.foreground2": "#B78BC3",
+    "editorBracketHighlight.foreground3": "#BEC85D",
     "editorIndentGuide.activeBackground": "#383838",
     "editorIndentGuide.background": "#2A2A2A",
     "editorRuler.foreground": "#2A2A2A",
