@@ -6,9 +6,13 @@
 <img src="https://user-images.githubusercontent.com/4319522/194106653-9720759f-3d1a-4ed6-8943-9594e2fe2424.svg" width="140" />
 
 A minimal theme for VS Code based on a blend of [Min](https://github.com/misolori/min-theme) and [Tomorrow](https://github.com/microsoft/vscode-themes/tree/master/tomorrow)
+</div>
 
-![preview-dark](https://raw.githubusercontent.com/musm/min-tomorrow-theme/master/screenshot-dark.png)
 
+<div align="center">
+<br />
+<br />
+<img src="https://user-images.githubusercontent.com/4319522/194112054-ea527f4c-eeeb-43e1-8d62-914bd2a512c1.png" width="700" />
 </div>
 
 ## Installation
