@@ -10,11 +10,9 @@ A minimal theme for VS Code based on a blend of [Min](https://github.com/misolor
 
 
 <div align="center">
-
+<br />
 <br />
 <img src="https://user-images.githubusercontent.com/4319522/194112054-ea527f4c-eeeb-43e1-8d62-914bd2a512c1.png" width="700" />
-
-
 </div>
 
 ## Installation
