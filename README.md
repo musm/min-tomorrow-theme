@@ -3,8 +3,7 @@
 # Min Tomorrow Theme
 
 
-<img src="https://raw.githubusercontent.com/musm/min-tomorrow-theme/master/icon.png" width="140" />
-
+<img src="https://user-images.githubusercontent.com/4319522/194106653-9720759f-3d1a-4ed6-8943-9594e2fe2424.svg" width="140" />
 
 A minimal theme for VS Code based on a blend of [Min](https://github.com/misolori/min-theme) and [Tomorrow](https://github.com/microsoft/vscode-themes/tree/master/tomorrow)
 
