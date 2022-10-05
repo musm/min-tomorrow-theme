@@ -23,6 +23,17 @@ Alternatively install via CLI:
 code --install-extension mustafamohamad.min-tomorrow-theme
 ```
 
+## Tweaks
+
+Optional tweaks can be made to `settings.json` as follows"
+```
+    "[Min Tomorrow Dark]": {
+      "editorIndentGuide.background": "#1f1f1f",
+    }
+```
+
+
+
 ## Credits
 
 - Credit for the development of Min Theme is due to [@misolori](https://github.com/misolori)
