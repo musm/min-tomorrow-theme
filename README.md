@@ -25,11 +25,13 @@ code --install-extension mustafamohamad.min-tomorrow-theme
 
 ## Tweaks
 
-Optional tweaks can be made to `settings.json` as follows"
+Optional tweaks can be made to `settings.json` as follows:
 ```
-    "[Min Tomorrow Dark]": {
-      "editorIndentGuide.background": "#1f1f1f",
-    }
+{
+  "[Min Tomorrow Dark]": {
+    "editorIndentGuide.background": "#1f1f1f", // blend indent guides with the background color
+  }
+}
 ```
 
 
